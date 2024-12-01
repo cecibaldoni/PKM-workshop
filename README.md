@@ -1,6 +1,6 @@
 # PKM-workshop
 
-## PKM Workshop Materials
+## PKM Workshop
 
 Welcome to the **Personal Knowledge Management (PKM) Workshop** repository! <br>
 This repository was created for the workshop "Personal Knowledge Management and Note-Taking Apps"", focusing on strategies for organizing, capturing, and retrieving knowledge effectively. <br>
