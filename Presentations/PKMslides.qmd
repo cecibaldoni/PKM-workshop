@@ -527,7 +527,6 @@ It helps you: <br>
 -   **Folderless Structure**
 -   **Emphasis on Journaling**
 -   **Open-Source and Privacy-Focused**
--   **Fully Functional Offline**
 -   **Advanced Queries**
 </div>
 
