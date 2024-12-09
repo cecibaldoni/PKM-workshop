@@ -4,7 +4,7 @@
 
 Welcome to the **Personal Knowledge Management (PKM) Workshop** repository! <br>
 This repository was created for the workshop "Personal Knowledge Management and Note-Taking Apps", Presented on December 2nd 2024 for the [IMPRS QBEE](https://imprs-qbee.mpg.de/) Doctoral students. <br>
-The workshop focuses on Logseq and Obsidian, and general note-taking strategies.
+The workshop focuses on Logseq and Obsidian, and general note-taking strategies. You can see the published slides at: https://cecibaldoni.quarto.pub/pkm-workshop/
 
 ---
 
@@ -13,7 +13,6 @@ The workshop focuses on Logseq and Obsidian, and general note-taking strategies.
 - **Slides**: 
   - `PKMslides.qmd` - The source file for the workshop slides, created with Quarto and Reveal.js
   - `PKMslides.pdf` - A downloadable PDF version of the slides for quick reference
-  - `PKMslides.html` - A self-contained HTML version of the slides for easy sharing and viewing
   - `custom.scss` - A custom stylesheet defining the layout of the presentation
 
 - **Example Notes**: 
@@ -26,7 +25,7 @@ The workshop focuses on Logseq and Obsidian, and general note-taking strategies.
 
 ### **1. View the Slides**
 - Option 1: Download the `PKMslides.pdf` file for a quick overview of the slides
-- Option 2: Open `PKMslides.html` in your browser to view the interactive presentation
+- Option 2: Go to https://cecibaldoni.quarto.pub/pkm-workshop to see the interactive presentation in yourr browser
 - Option 3: Clone the repository and open the `PKMslides.qmd` file using Quarto
   - Run `quarto render` in the repository directory to generate the presentation
 
@@ -59,7 +58,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use, 
   Please credit me as "Cecilia Baldoni" if you use or adapt the artwork.
 
 ### Artwork Attribution
-The artwork included in the presentation was created by Cecilia Baldoni. If you use any of the artwork, please credit me as the original author. For example:  
+The artwork included in the presentation was created by Cecilia Baldoni. If you use any artwork, please credit me as the original author. For example:  
 *"Artwork by [Cecilia Baldoni](https://cecibaldoni.github.io/)"*
 
 ---
