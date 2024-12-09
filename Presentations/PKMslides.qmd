@@ -693,6 +693,6 @@ It helps you: <br>
 - **Obsidian and Logseq are what you make of them**
     - Start simple, grow gradually.
 - **Tame the chaos.**
-    - Build your knowledge base to serve your needs.
+    <!-- - Build your knowledge base to serve your needs. -->
     
 </div>
