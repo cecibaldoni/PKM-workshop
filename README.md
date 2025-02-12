@@ -24,9 +24,11 @@ The workshop focuses on Logseq and Obsidian, and general note-taking strategies.
 ## How to Use
 
 ### **1. View the Slides**
-- Option 1: Download the `PKMslides.pdf` file for a quick overview of the slides
-- Option 2: Go to https://cecibaldoni.quarto.pub/pkm-workshop to see the interactive presentation in yourr browser
-- Option 3: Clone the repository and open the `PKMslides.qmd` file using Quarto
+- *Option 1*: Download the `PKMslides.pdf` file for a quick overview of the slides
+- *Option 2*: Go to https://cecibaldoni.quarto.pub/pkm-workshop to see the interactive presentation in yourr browser
+- *Option 3*: Clone the repository and open the `PKMslides.qmd` file using Quarto
+  - Install quarto [here](https://quarto.org/docs/get-started/)
+  - You can use quarto from: RStudio, VSCode, Jupyter or a normal text editor + terminal
   - Run `quarto render` in the repository directory to generate the presentation
 
 ### **2. Practice with Notes**
