@@ -53,9 +53,6 @@ The workshop focuses on Logseq and Obsidian, and general note-taking strategies.
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use, adapt, and share the materials!
-- The artwork in this repository is licensed under the  
-  [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
-  Please credit me as "Cecilia Baldoni" if you use or adapt the artwork.
 
 ### Artwork Attribution
 The artwork included in the presentation was created by Cecilia Baldoni. If you use any artwork, please credit me as the original author. For example:  
