@@ -6,6 +6,10 @@ Welcome to the **Personal Knowledge Management (PKM) Workshop** repository! <br>
 This repository was created for the workshop "Personal Knowledge Management and Note-Taking Apps", run on December 2nd 2024 for the [IMPRS QBEE](https://imprs-qbee.mpg.de/) Doctoral students. <br>
 The workshop focuses on Logseq and Obsidian, and general note-taking strategies. You can see the published slides at: https://cecibaldoni.quarto.pub/pkm-workshop/
 
+Not sure where to go from here?
+    Check out my [Awesome Personal Knowledge Management (PKM) for Academics and Researchers](https://github.com/cecibaldoni/awesome-PKM-for-academics) repo.
+    It's a curated list of workflows and resources to help you build your own system.
+
 ---
 
 ## Contents
