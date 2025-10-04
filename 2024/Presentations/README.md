@@ -3,13 +3,26 @@
 ## PKM Workshop
 
 Welcome to the **Personal Knowledge Management (PKM) Workshop** repository! <br>
-This repository was created for the workshop "Personal Knowledge Management and Note-Taking Apps", Presented on December 2nd 2024 for the [IMPRS QBEE](https://imprs-qbee.mpg.de/) Doctoral students. <br>
+This repository was created for the workshop "Personal Knowledge Management and Note-Taking Apps", designed for the [IMPRS QBEE](https://imprs-qbee.mpg.de/) Doctoral students. <br>
 The workshop focuses on Logseq and Obsidian, and general note-taking strategies.
+
+**Not sure where to go from here?**
+Check out my [Awesome Personal Knowledge Management (PKM) for Academics and Researchers](https://github.com/cecibaldoni/awesome-PKM-for-academics) repo—a curated list of workflows and resources to help you build your own system.
 
 ---
 
-## Contents
+## Workshop Editions
 
+### 2024 Edition
+
+
+**View the slides:** [https://cecibaldoni.quarto.pub/pkm-workshop/](https://cecibaldoni.quarto.pub/pkm-workshop/)
+
+**Access materials:** All 2024 workshop materials are in the [`2024/`](2024/) folder.
+
+#### Content
+
+The `2024/` folder contains:
 - **Slides**: 
   - `PKMslides.qmd` - The source file for the workshop slides, created with Quarto and Reveal.js
   - `PKMslides.pdf` - A downloadable PDF version of the slides for quick reference
@@ -22,15 +35,13 @@ The workshop focuses on Logseq and Obsidian, and general note-taking strategies.
 
 ---
 
+### 2025 Edition
+
+Coming soon! Materials will be added to the `2025/` folder.
+
 ## How to Use
 
-### **1. View the Slides**
-- Option 1: Download the `PKMslides.pdf` file for a quick overview of the slides
-- Option 2: Open `PKMslides.html` in your browser to view the interactive presentation
-- Option 3: Clone the repository and open the `PKMslides.qmd` file using Quarto
-  - Run `quarto render` in the repository directory to generate the presentation
-
-### **2. Practice with Notes**
+### Practice with Notes
 - **Logseq**:
   - Download and install [Logseq](https://logseq.com/)
   - Open the `Logseq/` folder as a graph in Logseq by selecting `Open Graph` from the Logseq app
