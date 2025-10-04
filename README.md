@@ -14,7 +14,6 @@ Check out my [Awesome Personal Knowledge Management (PKM) for Academics and Rese
 
 ### 2024 Edition
 
-
 **View the slides:** [https://cecibaldoni.quarto.pub/pkm-workshop/](https://cecibaldoni.quarto.pub/pkm-workshop/)
 
 **Access materials:** All 2024 workshop materials are in the [`2024/`](2024/) folder.
