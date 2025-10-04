@@ -1,0 +1,4 @@
+- source: PKMslides.qmd
+  quarto-pub:
+    - id: cf26c561-5313-4563-8416-1acf1ccd53b7
+      url: https://cecibaldoni.quarto.pub/pkm-workshop

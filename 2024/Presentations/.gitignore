@@ -1,0 +1,6 @@
+/.quarto/
+.Rhistory
+.RData
+.Rproj.user/
+PKMslides.html
+_publish/
