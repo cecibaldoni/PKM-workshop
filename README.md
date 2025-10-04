@@ -1,22 +1,31 @@
 # PKM-workshop
 
-## PKM Workshop
-
 Welcome to the **Personal Knowledge Management (PKM) Workshop** repository! <br>
-This repository was created for the workshop "Personal Knowledge Management and Note-Taking Apps", run on December 2nd 2024 for the [IMPRS QBEE](https://imprs-qbee.mpg.de/) Doctoral students. <br>
-The workshop focuses on Logseq and Obsidian, and general note-taking strategies. You can see the published slides at: https://cecibaldoni.quarto.pub/pkm-workshop/
+This repository was created for the workshop "Personal Knowledge Management and Note-Taking Apps", designed for the [IMPRS QBEE](https://imprs-qbee.mpg.de/) Doctoral students. <br>
+The workshop focuses on Logseq and Obsidian, and general note-taking strategies.
 
-Not sure where to go from here?
-    Check out my [Awesome Personal Knowledge Management (PKM) for Academics and Researchers](https://github.com/cecibaldoni/awesome-PKM-for-academics) repo.
-    It's a curated list of workflows and resources to help you build your own system.
+**Not sure where to go from here?**
+
+Check out my [Awesome Personal Knowledge Management (PKM) for Academics and Researchers](https://github.com/cecibaldoni/awesome-PKM-for-academics) repo—a curated list of workflows and resources to help you build your own system.
 
 ---
 
-## Contents
+## Workshop Editions
 
+### 2024 Edition
+
+
+**View the slides:** [https://cecibaldoni.quarto.pub/pkm-workshop/](https://cecibaldoni.quarto.pub/pkm-workshop/)
+
+**Access materials:** All 2024 workshop materials are in the [`2024/`](2024/) folder.
+
+#### Content
+
+The `2024/` folder contains:
 - **Slides**: 
   - `PKMslides.qmd` - The source file for the workshop slides, created with Quarto and Reveal.js
   - `PKMslides.pdf` - A downloadable PDF version of the slides for quick reference
+  - `PKMslides.html` - A self-contained HTML version of the slides for easy sharing and viewing
   - `custom.scss` - A custom stylesheet defining the layout of the presentation
 
 - **Example Notes**: 
@@ -25,17 +34,13 @@ Not sure where to go from here?
 
 ---
 
+### 2025 Edition
+
+Coming soon! Materials will be added to the `2025/` folder.
+
 ## How to Use
 
-### **1. View the Slides**
-- *Option 1*: Download the `PKMslides.pdf` file for a quick overview of the slides
-- *Option 2*: Go to https://cecibaldoni.quarto.pub/pkm-workshop to see the interactive presentation in yourr browser
-- *Option 3*: Clone the repository and open the `PKMslides.qmd` file using Quarto
-  - Install quarto [here](https://quarto.org/docs/get-started/)
-  - You can use quarto from: RStudio, VSCode, Jupyter or a normal text editor + terminal
-  - Run `quarto render` in the repository directory to generate the presentation
-
-### **2. Practice with Notes**
+### Practice with Notes
 - **Logseq**:
   - Download and install [Logseq](https://logseq.com/)
   - Open the `Logseq/` folder as a graph in Logseq by selecting `Open Graph` from the Logseq app
@@ -58,7 +63,15 @@ Not sure where to go from here?
 
 ## License
 
-This repository is licensed under the CC-By-SA ShareAlike 4.0
+This repository is licensed under the [MIT License](LICENSE). Feel free to use, adapt, and share the materials!
+- The artwork in this repository is licensed under the  
+  [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+  Please credit me as "Cecilia Baldoni" if you use or adapt the artwork.
+
+### Artwork Attribution
+The artwork included in the presentation was created by Cecilia Baldoni. If you use any of the artwork, please credit me as the original author. For example:  
+*"Artwork by [Cecilia Baldoni](https://cecibaldoni.github.io/)"*
+
 ---
 
 ## Contact
