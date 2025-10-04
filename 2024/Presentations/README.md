@@ -7,6 +7,7 @@ This repository was created for the workshop "Personal Knowledge Management and 
 The workshop focuses on Logseq and Obsidian, and general note-taking strategies.
 
 **Not sure where to go from here?**
+
 Check out my [Awesome Personal Knowledge Management (PKM) for Academics and Researchers](https://github.com/cecibaldoni/awesome-PKM-for-academics) repo—a curated list of workflows and resources to help you build your own system.
 
 ---
