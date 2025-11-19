@@ -1,0 +1,341 @@
+---
+title: "PKM Workshop 2025"
+subtitle: "Organizing Knowledge with Logseq and Obsidian"
+author: "Cecilia Baldoni"
+date: "2025-24-11"
+date-format: long
+format: 
+  revealjs: 
+    theme: style.scss
+    incremental: true 
+    footer: "[Cecilia Baldoni](https://cecibaldoni.github.io/)"
+    transition: fade
+    slide-number: true
+---
+
+## Welcome to the PKM Workshop
+
+- Learn how to organize notes and knowledge effectively
+- Explore [Logseq](https://logseq.com/) with hands-on tutorial
+- Build systems that work **for you**
+
+## Today's Goal
+
+Build a personal knowledge management system that makes information **easy to find** when you need it.
+
+![](img/filter_apps.png){.image-centered}
+
+## My Journey
+
+:::: columns
+::: {.column width="60%"}
+
+- Started with scattered notes across multiple platforms
+- Tried Notion, Evernote, Google Docs
+- Discovered networked note-taking
+- Now use Logseq (and Obsidian) daily
+
+:::
+
+::: {.column width="40%"}
+
+:::
+::::
+
+## You are the expert
+
+:::: columns
+:::: {.column width="40%"}
+::: {.fragment fragment-index="1"}
+<br>
+![](img/postit.jpeg){width="90%" height="90%"}
+:::
+::::
+
+:::: {.column width="60%"}
+::: {.fragment fragment-index="2"}
+<br><br><br><br><br>
+
+-   No one-size-fits-all solution.
+-   You are the expert of your own needs
+
+:::
+::::
+:::::::
+
+## Why you are here
+
+[Have you ever struggled with:]{.subtitle}
+
+- capture notes,
+- organise notes,
+- find notes,
+- put all ideas together
+
+[If so, PKM might be for you!]{.subtitle .fragment .centered}
+
+
+## What is PKM
+
+<div class="subtitle"> **PKM**: **P**ersonal **K**nowledge **M**anagement <br>
+A system for **capturing**, **organizing**, and **retrieving** knowledge efficiently. 
+</div>
+
+::::::: columns
+:::: {.column width="60%"}
+::: {.fragment}
+**PKM helps with**: <br>
+    -   Information overload, <br> 
+    -   Scattered notes, <br>
+    -   Information retrieval, <br> 
+    -   Connect Ideas
+
+:::
+::::
+
+:::: {.column width="40%"}
+
+![](img/information_overload.png)
+
+
+::::
+:::::::
+
+
+## Your Current Workflow
+
+::::::: columns
+:::: {.column width="50%"}
+::: {.fragment}
+
+-   **Reflect on your practices**:
+    -   Tools you use (analog or digital)
+    -   How you organize notes (folders, random papers)
+-   **Challenges**:
+    -   Losing track of articles or ideas
+    -   Unstructured notes, impossible to find
+
+:::
+::::
+
+:::: {.column width="50%"}
+<br><br>
+![](img/post-its.png){width="90%" height="90%"}
+::::
+:::::::
+
+## Note-Taking Apps
+
+[Apps to the Rescue!]{.subtitle}
+<br><br><br>
+
+Note Taking Apps provide the practical infrastructure for implementing a PKM system
+<br>
+
+
+![](img/logseq-logo.png){width="24%" height="24%"}
+ 
+    
+## But... not a magical solution!
+
+[Common Pitfalls]{.subtitle}
+
+:::: columns
+::: {.column width="50%"}
+
+
+-   **Challenges**:
+    -   Overcomplication
+    -   Inconsistency
+    -   Blank page syndrome
+
+:::
+
+::: {.column width="50%"}
+
+-   **Solutions**:
+    -   Start small
+    -   Focus on consistency
+    
+:::
+::::
+
+## Why Logseq?
+
+::::::: columns
+:::: {.column width="50%"}
+
+[Why Logseq?]{.subtitle}
+
+- Open-source\
+- Uses Markdown (future-proof)\
+- Great for journaling and task management\
+- Minimal layout
+- Helps build structured notes\
+
+::::
+
+:::: {.column width="50%"}
+
+[Why not other apps?]{.subtitle}
+
+-   **Privacy**: your data is stored on their servers
+-   **Cloud-based**: require Internet for most features
+-   **Money**: one time payment or monthly subscriptions
+::::
+::::::: 
+
+## Limitations of Logseq
+
+-   Still in beta: Occasional bugs and incomplete features
+-   Limited plugin availability compared to Obsidian
+-   Not possible to collaborate
+
+
+## Once again...
+
+[You are the expert]{.subtitle}
+<br><br>
+The **key** to Personal Knowledge Management (PKM) is organizing your knowledge in a way that ensures **you'll find it when you need it**.
+<br>
+<br>
+**A good system**...
+
+::: {.fragment}
+- is not a perfect system!
+- it’s about making retrieval easy and reliable
+- should support your workflow, not distract you from it
+:::
+
+::: {.fragment}
+**Do Not Perfect** your PKM structure at the expense of getting things done
+:::
+
+
+## What We Are Doing Now
+
+- **Learn Markdown**!
+- **Explore Logseq**: <br> How it works and how to adapt it to your workflow.
+
+::: {.fragment}
+Remember to:\
+- **Ask Questions Freely**: <br> This session is all about answering your specific questions.
+:::
+
+## Markdown tutorial
+
+<br><br>
+[Go to [this link!](https://pad.gwdg.de/_rRDl73OQAK9vLLTiEKMug)]{.subtitle .centered}
+
+
+
+## What is Logseq {auto-animate=true}
+
+![](img/logseq-logo.png){width="15%" .absolute top=15 left=80 id="logseq-logo"}
+
+<div class="text" style="position: absolute; top: 0px; left: 400px;">
+Logseq it's a networked outliner. \
+</div>
+
+![](img/logseq_structure.png){.fragment .absolute bottom=0}
+
+::: {.notes}
+
+
+Logseq is different compared to traditional note-taking apps. Most notes tools try to emulate paper and folders, meaning that each note is located in precisely one folder. This makes remixing your notes difficult, and often leads to having several copies of slightly different notes. Logseq aims to solve this so you can focus on doing your best thinking.
+:::
+
+## Key Features of Logseq
+
+[Outliner-Based Workflow]{.subtitle}
+
+
+Structures notes into tree-like structure of nested **blocks** (like bullet points) to organize and connect information.
+<br>
+*everything in Logseq is about the **blocks**!*
+
+::: {.fragment}
+<br>
+-   Blocks can be nested hierarchically for:
+    -   Outlining ideas
+    -   Organizing complex thoughts
+-   Easy to reorganize or move blocks
+:::
+
+::: {.notes}
+
+Logseq does not impose a way of working.Structure the tool in a way that matches your way of thinking. By writing, grouping, and linking blocks, you create your own information structures. But if you just start out, you shouldn't worry too much about structure. In Logseq, structure can emerge.
+:::
+
+## Key Features of Logseq
+
+[Backlinks and Linking]{.subtitle}
+<br>
+Backlinks: a link for a page that is shown to the current page
+
+::: {.fragment}
+-   Create links using the the `[[double brackets]]` or `#hashtag`
+-   Encourages a **web of interconnected notes*
+:::
+
+## Key Features of Logseq
+
+[Journaling and Daily Notes]{.subtitle}
+<br>
+
+::: {.fragment}
+-   Automatically creates a **daily note**
+-   Acts as:
+    -   A chronological log.
+    -   A launchpad for other notes.
+
+:::
+
+## Key Features of Logseq
+
+![](img/backlinks.png){width="1900px" height="900px"}
+
+## Key Features of Logseq
+
+[Task Management]{.subtitle}
+<br>
+
+::: {.fragment}
+-   Integrates tasks directly into your notes:
+    -   LATER -> NOW -> DONE
+    -   TODO -> DOING -> DONE
+    -   CANCELED/CANCELLED, IN-PROGRESS,  and WAIT/WAITING
+-   Tasks can be tracked across notes using **queries**.
+
+:::
+
+
+## Key Features of Logseq
+
+[Page Properties]{.subtitle}
+<br>
+
+::: {.fragment}
+-   Uses **key-value pairs** for structured data: 
+    -    `priority:: A deadline:: 2024-12-01`
+-   Helps organize and filter notes based on specific criteria
+
+:::
+
+
+## Key Features of Logseq
+
+
+[Queries]{.midi}
+<br>
+
+::: {.fragment}
+-   Dynamically search for and display notes or tasks
+-   Uses **Clojure syntax** for powerful, customizable queries
+-   Example: {{query (and \[\[*tag-name*\]\] (priority A))}}
+:::
+
+## Let's try it out!
+
+Download a sample folder [here!]()
+

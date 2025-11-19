@@ -1,0 +1,88 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lexend+Deca:wght@100..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+$lavender:   #FCF6F5;
+$mocha:      #402E2A;
+$mauve:      #684551;
+$purple:     #88398a;
+$green:      #629677;
+$dark-green: #093824;
+$teal:       #3c6e71;
+
+$font-family: "Lexend Deca", sans-serif;
+
+$body-bg: $lavender;
+$tabset-border-color: $mauve;
+
+/*-- scss:rules --*/
+
+.reveal {
+  font-family: $font-family;
+  
+  p,
+  li {
+  font-size: 0.9em;
+  line-height: 1.1;
+  color: $mauve;
+  }
+  
+    a {
+    color: $green;
+    transition: color 0.1s ease;
+
+    &:hover {
+      color: $purple;
+      text-decoration: underline;
+    }
+  }
+  
+  .footer {
+  color: $dark-green;
+
+  a {
+    color: $green;
+    text-decoration: none;
+    
+    &:hover {
+      color: $purple;
+      text-decoration: underline;
+    }
+  }
+}
+}
+
+.reveal h2 {
+  font-size: 2em;
+    font-weight: 400;
+    color: $green;
+    margin-bottom: 0.4em;
+}
+  
+.reveal .title {
+    font-size: 2.5em;
+    font-weight: 200;
+    color: $mocha;
+    margin-bottom: 0.2em;
+}
+
+.reveal .subtitle {
+    font-size: 1.2em;
+    font-weight: 300;
+    color: $dark-green;
+    margin-bottom: 1em;
+}
+  
+.img-centered {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+.centered {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  max-width: 100%;
+}
