@@ -1,8 +1,8 @@
 ---
 title: "PKM Workshop 2025"
-subtitle: "Organizing Knowledge with Logseq and Obsidian"
+subtitle: "Organizing Knowledge with Logseq"
 author: "Cecilia Baldoni"
-date: "2025-24-11"
+date: "2025-11-24"
 date-format: long
 format: 
   revealjs: 
@@ -24,6 +24,21 @@ format:
 Build a personal knowledge management system that makes information **easy to find** when you need it.
 
 ![](img/filter_apps.png){.image-centered}
+
+## Agenda
+
+*Morning*
+
+- Why PKM? Why Logseq?\
+- Markdown practice (from beginner to Markdown wizard in 20 minutes!)\
+- Hands-on Logseq practice\
+- Basic Logseq features (`page`, `backlinks`, `tags`, `journal`)\
+
+*Afternoon*
+
+- More Logseq features (`properties`, `reference`, `queries` )\
+- Plugins\
+- Make your own `graph`!\
 
 ## My Journey
 

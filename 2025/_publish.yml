@@ -1,0 +1,4 @@
+- source: index.qmd
+  quarto-pub:
+    - id: c3f10397-90ad-45c5-b507-84a9c5e4341e
+      url: https://cecibaldoni.quarto.pub/pkm-workshop-2025
